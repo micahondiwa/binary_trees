@@ -28,7 +28,7 @@ int binary_tree_is_parent_full(const binary_tree_t *node)
 {
 	int parent = 0;
 
-	if (node && node->lef && node->right)
+	if (node && node->left && node->right)
 		parent = 1;
 
 	return (parent);
