@@ -1,13 +1,12 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_node - creates a binary tree node
+ * binary_tree_node - Creates a binary tree mode
  *
- * @parent: the parent node
- * @value: the node value
- * Return: a pointer to the new node or NULL on failure.
+ * @parent: node parent
+ * @value: node value
+ * Return: pointer to the new node or NULL on failure
  */
-
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
 	binary_tree_t *new;
@@ -22,3 +21,4 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 	new->right = NULL;
 
 	return (new);
+}
