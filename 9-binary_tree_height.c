@@ -6,7 +6,7 @@
  * @tree: the root of a tree
  * Return: the height of a tree
  */
-size_t recursive_height(const binary_tree_t *t)
+size_t recursive_height(const binary_tree_t *tree)
 {
 	size_t left = 0;
 	size_t right = 0;
