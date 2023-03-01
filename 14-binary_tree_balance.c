@@ -40,7 +40,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_balance - return banalced tree
+ * binary_tree_balance - calls a tree and gives banalced tree
  *
  * @tree: root
  * Return: balance factor of the tree or 0 if NULL.
