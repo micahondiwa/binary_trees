@@ -51,5 +51,6 @@
 |[124-sorted_array_to_avl.c](124-sorted_array_to_avl.c)|Write a function that builds an AVL tree from an array.|
 |[125-O](125-O)|What are the average time complexities of those operations on an AVL Tree (one answer per line): Inserting the value n, Removing the node with the value n, Searching for a node in an AVL tree of size n.|
 |[130-binary_tree_is_heap.c](130-binary_tree_is_heap.c)|Write a function that checks if a binary tree is a valid Max Binary Heap.|
+Write a function that inserts a value in Max Binary Heap.|
 
 
