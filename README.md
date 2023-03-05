@@ -55,5 +55,6 @@
 |[132-array_to_heap.c](132-array_to_heap.c)|Write a function that builds a Max Binary Heap tree from an array.|
 |[133-heap_extract.c](133-heap_extract.c)|Write a function that extracts the root node of a Max Binary Heap.|
 |[134-heap_to_sorted_array.c](134-heap_to_sorted_array.c)|Write a function that converts a Binary Max Heap to a sorted array of integers.|
+|[135-O](135-O)|What are the average time complexities of those operations on a Binary Heap (one answer per line): Inserting the value n, Extracting the root node, Searching for a node in a binary heap of size n.|
 
 
