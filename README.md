@@ -47,6 +47,7 @@
 |[120-binary_tree_is_avl.c](120-binary_tree_is_avl.c)| Write a function that checks if a binary tree is a valid [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree).|
 |[121-avl_insert.c](121-avl_insert.c)|Write a function that inserts a value in an AVL Tree.|
 |[122-array_to_avl.c](122-array_to_avl.c)|Write a function that builds an AVL tree from an array.|
+Write a function that removes a node from an AVL tree
 
 
 
