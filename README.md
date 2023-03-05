@@ -43,5 +43,7 @@
 |[112-array_to_bst.c](112-array_to_bst.c)|Write a function that builds a Binary Search Tree from an array.|
 |[113-bst_search.c](113-bst_search.c)|Write a function that searches for a value in a Binary Search Tree.|
 |[114-bst_remove.c](114-bst_remove.c)|Write a function that removes a node from a Binary Search Tree.|
+|[115-O](115-O)|What are the average time complexities of those operations on a Binary Search Tree (one answer per line): Inserting the value n, Removing the node with the value n, Searching for a node in a BST of size n.|
+
 
 
