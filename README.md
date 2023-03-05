@@ -14,4 +14,4 @@
 
 | File  | Question |
 |[0-binary_tree_node.c](0-binary_tree_node.c)|Write a function that creates a binary tree node.|
-Write a function that inserts a node as the left-child of another node
+|[1-binary_tree_insert_left.c](1-binary_tree_insert_left.c)|Write a function that inserts a node as the left-child of another node.|
