@@ -28,4 +28,4 @@
 |[11-binary_tree_size.c](11-binary_tree_size.c)|Write a function that measures the size of a binary tree.|
 |[12-binary_tree_leaves.c](12-binary_tree_leaves.c)|Write a function that counts the leaves in a binary tree.|
 |[13-binary_tree_nodes.c](13-binary_tree_nodes.c)|Write a function that counts the nodes with at least 1 child in a binary tree.|
-Write a function that measures the balance factor of a binary tree
+|[14-binary_tree_balance.c](14-binary_tree_balance.c)|Write a function that measures the balance factor of a binary tree.|
