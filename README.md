@@ -29,3 +29,8 @@
 |[12-binary_tree_leaves.c](12-binary_tree_leaves.c)|Write a function that counts the leaves in a binary tree.|
 |[13-binary_tree_nodes.c](13-binary_tree_nodes.c)|Write a function that counts the nodes with at least 1 child in a binary tree.|
 |[14-binary_tree_balance.c](14-binary_tree_balance.c)|Write a function that measures the balance factor of a binary tree.|
+|[15-binary_tree_is_full.c](15-binary_tree_is_full.c)|Write a function that checks if a binary tree is full.|
+|[16-binary_tree_is_perfect.c](16-binary_tree_is_perfect.c)|Write a function that checks if a binary tree is perfect.|
+
+
+
