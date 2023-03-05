@@ -31,7 +31,9 @@
 |[14-binary_tree_balance.c](14-binary_tree_balance.c)|Write a function that measures the balance factor of a binary tree.|
 |[15-binary_tree_is_full.c](15-binary_tree_is_full.c)|Write a function that checks if a binary tree is full.|
 |[16-binary_tree_is_perfect.c](16-binary_tree_is_perfect.c)|Write a function that checks if a binary tree is perfect.|
-Write a function that finds the sibling of a node
+|[17-binary_tree_sibling.c](17-binary_tree_sibling.c)|Write a function that finds the sibling of a node.|
+|[18-binary_tree_uncle.c](18-binary_tree_uncle.c)|Write a function that finds the uncle of a node.|
+
 
 
 
