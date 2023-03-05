@@ -49,7 +49,7 @@
 |[122-array_to_avl.c](122-array_to_avl.c)|Write a function that builds an AVL tree from an array.|
 |[123-avl_remove.c](123-avl_remove.c)|Write a function that removes a node from an AVL tree.|
 |[124-sorted_array_to_avl.c](124-sorted_array_to_avl.c)|Write a function that builds an AVL tree from an array.|
-What are the average time complexities of those operations on an AVL Tree (one answer per line): Inserting the value n, Removing the node with the value n, Searching for a node in an AVL tree of size n
+|[125-O](125-O)|What are the average time complexities of those operations on an AVL Tree (one answer per line): Inserting the value n, Removing the node with the value n, Searching for a node in an AVL tree of size n.|
 
 
 
