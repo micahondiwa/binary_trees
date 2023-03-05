@@ -53,5 +53,6 @@
 |[130-binary_tree_is_heap.c](130-binary_tree_is_heap.c)|Write a function that checks if a binary tree is a valid Max Binary Heap.|
 |[131-heap_insert.c](131-heap_insert.c)|Write a function that inserts a value in Max Binary Heap.|
 |[132-array_to_heap.c](132-array_to_heap.c)|Write a function that builds a Max Binary Heap tree from an array.|
+|[133-heap_extract.c](133-heap_extract.c)|Write a function that extracts the root node of a Max Binary Heap.|
 
 
