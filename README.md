@@ -40,5 +40,6 @@
 |[104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c)|Write a function that performs a right-rotation on a binary tree.|
 |[110-binary_tree_is_bst.c](110-binary_tree_is_bst.c)|Write a function that checks if a binary tree is a valid [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree).|
 |[111-bst_insert.c](111-bst_insert.c)|Write a function that inserts a value in a Binary Search Tree.|
+Write a function that builds a Binary Search Tree from an array
 
 
