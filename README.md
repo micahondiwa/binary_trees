@@ -13,3 +13,4 @@
 ## Files
 
 | File  | Question |
+Write a function that creates a binary tree node
