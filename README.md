@@ -45,7 +45,4 @@
 |[114-bst_remove.c](114-bst_remove.c)|Write a function that removes a node from a Binary Search Tree.|
 |[115-O](115-O)|What are the average time complexities of those operations on a Binary Search Tree (one answer per line): Inserting the value n, Removing the node with the value n, Searching for a node in a BST of size n.|
 |[120-binary_tree_is_avl.c](120-binary_tree_is_avl.c)| Write a function that checks if a binary tree is a valid [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree).|
-Write a function that inserts a value in an AVL Tree
-
-
-
+|[121-avl_insert.c](121-avl_insert.c)|Write a function that inserts a value in an AVL Tree.|
