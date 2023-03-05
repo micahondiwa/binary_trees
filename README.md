@@ -20,4 +20,5 @@
 |[3-binary_tree_delete.c](3-binary_tree_delete.c)|Write a function that deletes an entire binary tree.|
 |[4-binary_tree_is_leaf.c](4-binary_tree_is_leaf.c)|Write a function that checks if a node is a leaf.|
 |[5-binary_tree_is_root.c](5-binary_tree_is_root.c)|Write a function that checks if a given node is a root.|
-|[Write a function that goes through a binary tree using pre-order traversal]
+|[6-binary_tree_preorder.c](6-binary_tree_preorder.c)|Write a function that goes through a binary tree using pre-order traversal.|
+|Write a function that goes through a binary tree using in-order traversal
